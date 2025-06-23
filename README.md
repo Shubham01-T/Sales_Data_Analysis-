@@ -1,4 +1,6 @@
-US Sales Analysis Dashboard
+**US Sales Analysis Dashboard**
+
+
 Welcome to the US Sales Analysis Dashboard, a comprehensive data analysis project that explores key business metrics such as revenue, profit, customer behavior, and regional performance from a simulated sales dataset.
 
 Project Overview
